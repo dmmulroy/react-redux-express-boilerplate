@@ -1,7 +1,7 @@
 {
   "name": "react-redux-express-boilerplate",
   "version": "0.0.1-SNAPSHOT",
-  "description": "Combination of various react, redux, and express boilerplates to quickly kickstart projects. Inspiration from Dan Abramov/Facebook (https://github.com/reactjs/redux/tree/master/examples/real-world) and Dave Zuko (https://github.com/davezuko/react-redux-starter-kit)",
+  "description": "Combination of various react, redux, and express boilerplates to quickly kickstart projects. Inspiration from Dan Abramov/Facebook (https://github.com/reactjs/redux/tree/master/examples/real-world) and David Zukowski (https://github.com/davezuko/react-redux-starter-kit)",
   "main": "index.js",
   "engines": {
     "node": ">=6.6.0",
